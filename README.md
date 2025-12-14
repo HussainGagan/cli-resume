@@ -4,7 +4,7 @@
 
 ## Usage
 
-Run using npx (no installation required):
+Run using npx:
 
 ```bash
 npx hussaingagan
