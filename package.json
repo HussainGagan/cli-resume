@@ -1,0 +1,22 @@
+{
+  "name": "@hussaingagan",
+  "version": "1.0.0",
+  "description": "Hussain Gagan's resume - Display my resume directly in your terminal!",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "hussaingagan": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Hussain Gagan <hussain.gagan@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HussainGagan/hussaingagan"
+  },
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2"
+  }
+}
